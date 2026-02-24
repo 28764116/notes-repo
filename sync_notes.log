@@ -13,3 +13,14 @@ To github.com:28764116/notes-repo.git
 
 ============================================
 2026-02-24 21:45:19 - 开始同步笔记库
+[master 21db2d9] 同步笔记 - 2026-02-24 21:45:19
+ 1 file changed, 13 insertions(+)
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:28764116/notes-repo.git
+   c00245f..21db2d9  master -> master
+2026-02-24 21:45:24 - 同步完成
+============================================
+
+============================================
+2026-02-24 21:45:29 - 开始同步笔记库
