@@ -1,2 +1,15 @@
 ============================================
 2026-02-24 21:45:09 - 开始同步笔记库
+[master c00245f] 同步笔记 - 2026-02-24 21:45:09
+ 2 files changed, 41 insertions(+)
+ create mode 100644 sync_notes.log
+ create mode 100755 sync_notes.sh
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+To github.com:28764116/notes-repo.git
+   2d9298c..c00245f  master -> master
+2026-02-24 21:45:14 - 同步完成
+============================================
+
+============================================
+2026-02-24 21:45:19 - 开始同步笔记库
