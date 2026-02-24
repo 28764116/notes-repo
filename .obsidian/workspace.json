@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-02-24.md",
+                "file": "微信公众号/Obsidian 集成 OpenClaw 我的第二个会思考的大脑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-24"
+              "title": "Obsidian 集成 OpenClaw 我的第二个会思考的大脑"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2026-02-24.md",
+                "file": "微信公众号/Obsidian 集成 OpenClaw 我的第二个会思考的大脑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-02-24 的反向链接列表"
+              "title": "Obsidian 集成 OpenClaw 我的第二个会思考的大脑 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2026-02-24.md",
+                "file": "微信公众号/Obsidian 集成 OpenClaw 我的第二个会思考的大脑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-02-24 的出链列表"
+              "title": "Obsidian 集成 OpenClaw 我的第二个会思考的大脑 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2026-02-24.md",
+                "file": "微信公众号/Obsidian 集成 OpenClaw 我的第二个会思考的大脑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-24 的大纲"
+              "title": "Obsidian 集成 OpenClaw 我的第二个会思考的大脑 的大纲"
             }
           },
           {
@@ -195,7 +195,10 @@
   },
   "active": "326175c31226b990",
   "lastOpenFiles": [
-    "README.md",
-    "日记/2026-02-24.md"
+    "Pasted image 20260224164203.png",
+    "日记/2026-02-24.md",
+    "微信公众号/Obsidian 集成 OpenClaw 我的第二个会思考的大脑.md",
+    "微信公众号",
+    "README.md"
   ]
 }
