@@ -27,8 +27,14 @@ while true; do
     
     cd $REPO_DIR
     git add . >> $LOG_FILE 2>&1
-    git commit -m "同步笔记 - $(date +'%Y-%m-%d %H:%M:%S')" >> $LOG_FILE 2>&1
-    git pull origin master --rebase >> $LOG_FILE 2>&1
+    
+    # 检查是否有需要提交的更改
+    if git diff --staged | grep -q "."; then
+        git commit -m "同步笔记 - $(date +'%Y-%m-%d %H:%M:%S')" >> $LOG_FILE 2>&1
+    fi
+    
+    # 先尝试拉取，如有冲突则合并
+    git pull origin master >> $LOG_FILE 2>&1
     git push origin master >> $LOG_FILE 2>&1
     
     echo "$(date +'%Y-%m-%d %H:%M:%S') - 同步完成" >> $LOG_FILE
