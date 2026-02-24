@@ -11,16 +11,14 @@
             "id": "326175c31226b990",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "003-Projects/03-财务附注/资料/伊利2024年财报.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 846,
-                "zoom": 1.244750545943222
+                "file": "003-Projects/03-财务附注/伊利2024年货币资金分析.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "伊利2024年财报"
+              "icon": "lucide-file",
+              "title": "伊利2024年货币资金分析"
             }
           }
         ]
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-Projects/03-财务附注/资料/伊利2024年财报.pdf",
+                "file": "003-Projects/03-财务附注/伊利2024年货币资金分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "伊利2024年财报 的反向链接列表"
+              "title": "伊利2024年货币资金分析 的反向链接列表"
             }
           },
           {
@@ -115,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-Projects/03-财务附注/资料/伊利2024年财报.pdf",
+                "file": "003-Projects/03-财务附注/伊利2024年货币资金分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "伊利2024年财报 的出链列表"
+              "title": "伊利2024年货币资金分析 的出链列表"
             }
           },
           {
@@ -158,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-Projects/03-财务附注/资料/伊利2024年财报.pdf",
+                "file": "003-Projects/03-财务附注/伊利2024年货币资金分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "伊利2024年财报 的大纲"
+              "title": "伊利2024年货币资金分析 的大纲"
             }
           },
           {
@@ -200,8 +198,17 @@
   },
   "active": "326175c31226b990",
   "lastOpenFiles": [
-    "002-Areas/02-生活记录/2026-02-24.md",
     "003-Projects/03-财务附注/资料/伊利2024年财报.pdf",
+    "pull_notes.sh",
+    "pull_logs.txt",
+    "convert_txt_to_markdown.py",
+    "005-Templates.md",
+    "004-Resources.md",
+    "003-Projects/03-财务附注/伊利2024年货币资金分析.md",
+    "003-Projects.md",
+    "002-Areas.md",
+    "001-Index.md",
+    "002-Areas/02-生活记录/2026-02-24.md",
     "003-Projects/03-财务附注/资料",
     "003-Projects/03-财务附注",
     "003-Projects/02-小说计划/欺天盗君-大纲.md",
@@ -213,15 +220,9 @@
     "003-Projects/01-公众号",
     "002-Areas/04-视频资料",
     "README.md",
-    "002-Areas.md",
-    "003-Projects.md",
-    "005-Templates.md",
     "001-Index",
-    "001-Index.md",
     "10-视频资料/公孙田浩/暗网是如何诞生的，里面都存在什么网站，为什么暗网并不神秘？.md",
     "004-Resources",
-    "004-Resources.md",
-    "003-Projects",
     "002-Areas/04-视频资料/公孙田浩/暗网是如何诞生的，里面都存在什么网站，为什么暗网并不神秘？.md",
     "002-Areas/04-视频资料/公孙田浩/你的照片是如何泄露位置的_.md",
     "002-Areas/04-视频资料/公孙田浩/【调查实录009】又有UP主被诈骗，我深入黑市调查，揪出卖号团伙.md",
@@ -233,8 +234,6 @@
     "002-Areas/04-视频资料/公孙田浩/【互联网黑产博弈005】协助警方调查这些年，我来告诉你为什么追查电信诈骗那么难。.md",
     "002-Areas/04-视频资料/公孙田浩/【互联网黑产博弈004】通过一个手机号，我查到了自己的户籍信息，行踪轨迹。.md",
     "002-Areas/04-视频资料/公孙田浩/【互联网黑产博弈002】你的身份是如何被冒用的.md",
-    "002-Areas/04-视频资料/公孙田浩/【互联网黑产博弈001】五亿微博数据泄露，我查到了当代明星网红手机号。.md",
-    "002-Areas/04-视频资料/公孙田浩",
-    "10-视频资料/公孙田浩/你的照片是如何泄露位置的_.md"
+    "002-Areas/04-视频资料/公孙田浩/【互联网黑产博弈001】五亿微博数据泄露，我查到了当代明星网红手机号。.md"
   ]
 }
